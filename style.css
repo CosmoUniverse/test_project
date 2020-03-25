@@ -2,6 +2,9 @@
     font-family: 'Montserrat', sans-serif;
     margin: 0px;
     padding: 0px;
+}
+
+html {
     background-color: blanchedalmond;
     font-weight: 500;
 }
