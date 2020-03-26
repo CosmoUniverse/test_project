@@ -2,11 +2,21 @@
     font-family: 'Montserrat', sans-serif;
     margin: 0px;
     padding: 0px;
+    box-sizing: border-box;
+    font-weight: 500;
+}
+
+.test_two {
+    position: fixed;
+    height: 100%;
+    width: 70px;
+    background-color: #c90107;
+    border: 1px solid black;
+    margin-left: 93%;
 }
 
 html {
     background-color: blanchedalmond;
-    font-weight: 500;
 }
 
 .empty {
